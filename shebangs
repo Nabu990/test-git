@@ -1,0 +1,4 @@
+#!bin/bash
+pwd
+cat
+echo ##"this is a shebanks code"
